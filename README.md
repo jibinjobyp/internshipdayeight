@@ -26,15 +26,18 @@ To gain hands-on experience with Virtual Private Networks (VPNs) and understand 
 
 ### ✅ 4. **Connected to a VPN Server**
 - Connected to a free VPN server located in **Netherlands**.
+- ![image](vpn-client-connected.png)
 
 ### ✅ 5. **Verified IP Address Change**
 - Before VPN:
   - **IP Address**: `42.108.126.38`
   - **Location**: Manjeri, Kerala, India
   - **ISP**: Vodafone Idea Ltd
+  - ![image](vpn-off-ip.png)
 - After VPN:
   - **IP Address** changed and location showed Netherlands
   - Website used: [whatismyipaddress.com](https://whatismyipaddress.com)
+  - ![image](vpn-on-ip.png)
 
 ### ✅ 6. **Tested Encrypted Traffic**
 - Browsed various websites.
